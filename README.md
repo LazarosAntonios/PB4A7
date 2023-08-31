@@ -1,8 +1,8 @@
 # PB4A7
 📚 PB4A7: Quantitative Applications in Behavioural Science 📊
-📅 Fall Semester | 🎓 Instructor: Dr. George Melios
-🕘 Time: Monday 09:00-10:00
+📅 Fall Semester | 🕘 Time: Monday 09:00-10:00
 
+🎓 Instructor: Dr. George Melios
 📧 E-mail: G.Melios@lse.ac.uk
 🏢 Room: MAR.2.10
 🏫 Office: CON 5.19

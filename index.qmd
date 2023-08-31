@@ -38,7 +38,7 @@ Deadline:
 ::: {.panel-tabset}
 ## Teacher responsible
 
-![](/figures/people/George.jpeg){fig-align="left" fig-alt="Photo of Dr. George Melios" width="5em"}  
+![](/figures/people/George.jpg){fig-align="left" fig-alt="Photo of Dr. George Melios" width="5em"}  
 **Dr. [George Melios](https://www.lse.ac.uk/PBS/People/Dr-Georgios-Melios)** <br/>
 _Research Officer_ <br/>
 LSE Data Science Institute<br/>
@@ -46,7 +46,7 @@ Office Hours: book [here](https://calendly.com/g-melios/office-hours?month=2023-
 
 ## Teaching assistants
 
-![](/figures/people/Lazaros.jpeg){fig-align="left" fig-alt="Photo of Lazaros-Antonios Chatzilazarou (Larry)" width="5em"}  
+![](/figures/people/Lazaros.jpg){fig-align="left" fig-alt="Photo of Lazaros-Antonios Chatzilazarou (Larry)" width="5em"}  
 **[Lazaros-Antonios Chatzilazarou](https://sites.google.com/view/lazarosantonios/?pli=1)** <br/>
 _Guest Teacher_<br/>
 Office: CON.5.05<br/>

@@ -1,7 +1,7 @@
 ---
 title: "LSE PB4A7 (2023/2024)"
 subtitle: "Quantitative Applications for Behavioural Science"
-date: 05 September 2022
+date: 31 August 2023
 date-meta: 05 September 2022
 ---
 

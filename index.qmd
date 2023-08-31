@@ -1,70 +1,60 @@
 ---
-title: "LSE DS202 (2022/2023)"
-subtitle: "Data Science for Social Scientists"
+title: "LSE PB4A7 (2023/2024)"
+subtitle: "Quantitative Applications for Behavioural Science"
 date: 05 September 2022
 date-meta: 05 September 2022
 ---
 
 # 📑 Course Brief
 
-**Focus:** learn and understand the most fundamental machine learning algorithms
+**Focus:** Learn and understand the main statistical background of behavioural research from psychology and economics.
 
-**How:** practical use of machine learning techniques and its metrics, applied to relevant data sets
+**How:** Demonstrations on example behavioural science research. 
 
 # 🎯 Learning Objectives
 
-- Understand the **fundamentals of the data science approach**, with an emphasis on social scientific analysis and the study of the social, political, and economic worlds;
-- Understand how **classical methods** such as regression analysis or principal components analysis can be treated **as machine learning approaches** for prediction or for data mining.
-- Know how to fit and apply **supervised machine learning models** for classification and prediction.
-- Know how to evaluate and **compare fitted models**, and to improve model performance.
-- Use applied computer programming, including the **hands-on use of programming** through course exercises.
-- Apply the methods learned to **real data** through hands-on exercises.
-- Integrate the insights from data analytics into **knowledge generation** and **decision-making**.
-- Understand an introductory framework for working with **natural language (text) data** using techniques of machine learning.
-- Learn how data science methods have been applied to a particular domain of study (**applications**).
+- Testing hypotheses requires designing experiments and analysing the data or conducting
+statistical analyses on secondary data. 
+- Introduces the main statistical background of behavioural research from psychology and economics.
+- Cover best practices and state of the art statistical tools that are used by psychologists
+and economists. 
+- Learn how to identify, interpret, and evaluate appropriate analyses for different research designs, conduct your own data analysis for each of these designs and report the analysis for publication in a journal.
+- Recognise and understand contemporary issues in data science analysis in psychology and economics that need to be considered for best research practices. 
+- Emphasis will be on teaching students how the same analyses are presented in psychology and economics journals so students can understand how to integrate research from these two fields that constitute behavioural science.
+
+# 🎓 Requirements 
+
+Download and install STATA or R and R Studio. Throughout the class, we will rely on STATA for seminars but codes will be provided for R as well.
+
+# Assessment: 
+
+The summative assessment comprises two parts, 1) a data analysis report replicating an existing paper (worth 70%), and 2) a poster summarising the main components of the report (worth 30%). For the report, everyone will work on replicating the same academic journal article. You will also be provided with a cleaned dataset to use for data analysis. The goal is to first replicate the main analyses of the paper on your own, not using any code that may be provided by the authors, and to provide tables and charts as close to those shown in the paper. After successfully replicating, you should provide any critiques of the paper, including for example whether you caught any mistakes, why you disagree with any assumptions or methodological approaches, and its strengths and limitations. If you could not replicate an analysis, provide a best attempt at doing so, and discuss why it might have been unsuccessful. Finally, you should think through extensions to the paper, including how future studies might build on the findings, or other analyses that can be done with the existing data. 
+
+The poster will draw from your work in the report, but in a more approachable and compelling format. You can use the guidelines on how to create a conference poster, but this exercise should also be a creative pursuit, so no need to stick to strict formatting rules. That said, the poster must be logically laid out and easy to follow (i.e., think about the viewer’s experience) and should be as analytical and well-researched as it is visually appealing.
+Deadline: 
 
 # 🧑🏻‍🏫 Our Team
 
 ::: {.panel-tabset}
 ## Teacher responsible
 
-![](/figures/people/JonathanCardosoSilva_2022.jpg){fig-align="left" fig-alt="Photo of Dr. Jonathan Cardoso-Silva" width="5em"}  
-**Dr. [Jonathan Cardoso-Silva](https://www.lse.ac.uk/DSI/People/Jonathan-Cardoso-Silva)** <br/>
-_Assistant Professorial Lecturer_ <br/>
+![](/figures/people/George.jpeg.jpg){fig-align="left" fig-alt="Photo of Dr. George Melios" width="5em"}  
+**Dr. [George Melios](https://www.lse.ac.uk/PBS/People/Dr-Georgios-Melios)** <br/>
+_Research Officer_ <br/>
 LSE Data Science Institute<br/>
-Office Hours: book via StudentHub
+Office Hours: book [here](https://calendly.com/g-melios/office-hours?month=2023-08)
 
 ## Teaching assistants
 
-![](/figures/people/Anton.jpg){fig-align="left" fig-alt="Photo of Anton Boichenko" width="5em"}  
-**[Anton Boichenko](http://boychenko.pro/)** <br/>
+![](/figures/people/Lazaros.jpeg.jpg){fig-align="left" fig-alt="Photo of Lazaros-Antonios Chatzilazarou (Larry)" width="5em"}  
+**[Lazaros-Antonios Chatzilazarou](https://sites.google.com/view/lazarosantonios/?pli=1)** <br/>
 _Guest Teacher_<br/>
-Office Hours: book via StudentHub
-
-![](/figures/people/Xiaowei.png){fig-align="left" fig-alt="Photo of Xiaowei Gao" width="5em"}  
-**[Xiaowei Gao](https://github.com/UCLWilson)** <br/>
-_Guest Teacher_<br/>
-Office Hours: book via StudentHub
-
-![](/figures/people/Yijun.jpg){fig-align="left" fig-alt="Photo of Yijun Wang" width="5em"}  
-**[Yijun Wang](https://www.kcl.ac.uk/people/yijun-wang)** <br/>
-_Guest Teacher_<br/>
+Office: CON.5.05<br/>
+Tel: +44 (0) 75 9365 798 4<br/>
+Email: [l.a.chatzilazarou@lse.ac.uk](mailto:l.a.chatzilazarou@lse.ac.uk)
 Office Hours: book via StudentHub
 
 ## Administrative support
 
-
-![](/figures/people/Nathaniel-Ocquaye-Cropped-450x450.jpg){fig-align="left" fig-alt="Photo of Nathaniel Ocquaye" width="5em"}  
-**Nathaniel Ocquaye** <br/>
-_Teaching Support and Events Officer_<br/>
-Office: PEL 9.01<br/>
-Email: [DSI.UG@lse.ac.uk](mailto:DSI.UG@lse.ac.uk)
-
-![](/figures/people/Jill-Beattie.png){fig-align="left" fig-alt="Photo of Jill Beattie" width="5em"}  
-**Jill Beattie** <br/>
-_Institute Coordinator_<br/>
-Office: PEL 9.01E<br/>
-Tel: +44 (0) 20 7955 7759<br/>
-Email: [DSI.Admin@lse.ac.uk](mailto:DSI.Admin@lse.ac.uk)
 
 :::

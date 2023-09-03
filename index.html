@@ -40,7 +40,25 @@ ul.task-list li input[type="checkbox"] {
 
 <body class="fullcontent">
 
+  <div id="top-bar">
+    <a href="index.html">LSE PB4A7 2023/24</a>
+  </div>
+
 <div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+  <div id="left-column">
+    <ul>
+      <li><a href="home.html" target="_blank">Home</a></li>
+      <li><a href="syllabus.html" target="_blank">Syllabus</a></li>
+      <li><a href="communication.html" target="_blank">Communication</a></li>
+      <li><a href="assessments.html" target="_blank">Assessments</a></li>
+      <li><a href="blog.html" target="_blank">Blog</a></li>
+      <li id="weeks">Weeks
+        <ul id="week-list">
+          <!-- Week list will be populated by JavaScript -->
+        </ul>
+      </li>
+    </ul>
+  </div>
 
 <main class="content" id="quarto-document-content">
 
@@ -217,3 +235,14 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 </body></html>
+
+<script>
+  const weekList = document.getElementById('week-list');
+  for (let i = 1; i <= 11; i++) {
+    const weekItem = document.createElement('li');
+    weekItem.innerHTML = `<a href="week${i}.html" target="_blank">Week ${i}</a>`;
+    weekList.appendChild(weekItem);
+  }
+</script>
+</body>
+</html>

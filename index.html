@@ -1,52 +1,27 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
-
-<meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.189">
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-
-<meta name="dcterms.date" content="05 September 2022">
-
-<title>LSE PB4A7 (2023/2024)</title>
-<style>
-code{white-space: pre-wrap;}
-span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
-div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-ul.task-list{list-style: none;}
-ul.task-list li input[type="checkbox"] {
-  width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
-  vertical-align: middle;
-}
-</style>
-
-
-<script src="index_files/libs/clipboard/clipboard.min.js"></script>
-<script src="index_files/libs/quarto-html/quarto.js"></script>
-<script src="index_files/libs/quarto-html/popper.min.js"></script>
-<script src="index_files/libs/quarto-html/tippy.umd.min.js"></script>
-<script src="index_files/libs/quarto-html/anchor.min.js"></script>
-<link href="index_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="index_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="index_files/libs/bootstrap/bootstrap.min.js"></script>
-<link href="index_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="index_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-
-
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
+  <meta charset="utf-8">
+  <meta name="generator" content="quarto-1.1.189">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name="dcterms.date" content="05 September 2022">
+  <title>LSE PB4A7 (2023/2024)</title>
   <link rel="stylesheet" type="text/css" href="webstyle.css">
+  <script src="index_files/libs/clipboard/clipboard.min.js"></script>
+  <script src="index_files/libs/quarto-html/quarto.js"></script>
+  <script src="index_files/libs/quarto-html/popper.min.js"></script>
+  <script src="index_files/libs/quarto-html/tippy.umd.min.js"></script>
+  <script src="index_files/libs/quarto-html/anchor.min.js"></script>
+  <script src="index_files/libs/bootstrap/bootstrap.min.js"></script>
+  <link href="index_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+  <link href="index_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+  <link href="index_files/libs/quarto-html/tippy.css" rel="stylesheet">
+  <link href="index_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 </head>
-
 <body class="fullcontent">
-
   <div id="top-bar">
     <a href="index.html">LSE PB4A7 2023/24</a>
   </div>
-
-<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
   <div id="left-column">
     <ul>
       <li><a href="home.html" target="_blank">Home</a></li>
@@ -54,14 +29,13 @@ ul.task-list li input[type="checkbox"] {
       <li><a href="communication.html" target="_blank">Communication</a></li>
       <li><a href="assessments.html" target="_blank">Assessments</a></li>
       <li><a href="blog.html" target="_blank">Blog</a></li>
-      <li id="weeks">Weeks
-        <ul id="week-list">
+      <li id="weeks" class="week-button">Weeks
+        <ul id="week-list" class="hidden">
           <!-- Week list will be populated by JavaScript -->
         </ul>
       </li>
     </ul>
   </div>
-
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
@@ -232,19 +206,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-</div> <!-- /content -->
-
-
-
-</body></html>
-
-<script>
-  const weekList = document.getElementById('week-list');
-  for (let i = 1; i <= 11; i++) {
-    const weekItem = document.createElement('li');
-    weekItem.innerHTML = `<a href="week${i}.html" target="_blank">Week ${i}</a>`;
-    weekList.appendChild(weekItem);
-  }
-</script>
+  <script type="text/javascript">
+    const weekList = document.getElementById('week-list');
+    for (let i = 1; i <= 11; i++) {
+      const weekItem = document.createElement('li');
+      weekItem.innerHTML = `<a href="week${i}.html" target="_blank">Week ${i}</a>`;
+      weekList.appendChild(weekItem);
+    }
+  </script>
 </body>
 </html>

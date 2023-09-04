@@ -43,7 +43,7 @@ footer {
 }
 
 #top-bar {
-    background-color: red;
+    background-color: rgb(255, 0, 43);
     color: white;
     padding: 10px;
     text-align: left;
@@ -60,4 +60,11 @@ footer {
     padding: 10px;
   }
   
-
+/* Additional Styles for Interactive Weeks Button */
+.hidden {
+    display: none;
+  }
+  
+  .week-button.active ul {
+    display: block;
+  }

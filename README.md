@@ -1,11 +1,10 @@
 # PB4A7
 📚 PB4A7: Quantitative Applications in Behavioural Science 📊
-📅 Fall Semester | 🕘 Time: Monday 09:00-10:00
+📅 Fall Semester | 🕘 Time: Tuesday 09:00-10:00
 
 🎓 Instructor: Dr. George Melios
 📧 E-mail: G.Melios@lse.ac.uk
-🏢 Room: MAR.2.10
-🏫 Office: CON 5.19
+🏢 Room: CON 5.19
 📚 Seminars: TBA
 🗂 Office Hours: TBA
 
@@ -24,8 +23,12 @@ Conduct and report your own data analysis for journal publication.
 Recognize and address contemporary issues in data science analysis in psychology and economics.
 
 🛠️ Requirements
+For students who have no prior experience with statistics/econometrics and/or STATA, the completion of the following Digital Skills class is highly recommended: 
+
+Introduction to STATA: https://moodle.lse.ac.uk/course/view.php?id=7882 
+
 Software: Download and install STATA or R and R Studio.
-Student Hours: Book office hours for Dr. Melios & Ms. Odell via Student Hub.
+Student Hours: Book office hours for Dr. Melios & Mr. Chatzilazarou via Student Hub.
 Class Participation: Active participation and punctuality are highly recommended.
 
 📚 Recommended Materials
